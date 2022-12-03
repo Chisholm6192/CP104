@@ -4,8 +4,8 @@ Assignment 1 Task 4
 Given the cost of and quantity of pizza slices, the program calculates the total cost
 -------------------------------------------------------
 Author:  Ryan Chisholm
-ID:      169027577
-Email:   chis7577@mylaurier.ca
+ID:      *********
+Email:   *********
 __updated__ = "2022-09-26"
 -------------------------------------------------------
 """
