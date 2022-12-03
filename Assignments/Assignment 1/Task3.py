@@ -4,8 +4,8 @@ Assignment 1 Task 3
 Conversion of inches to meters
 -------------------------------------------------------
 Author:  Ryan Chisholm
-ID:      169027577
-Email:   chis7577@mylaurier.ca
+ID:      *********
+Email:   *********
 __updated__ = "2022-09-26"
 -------------------------------------------------------
 """
