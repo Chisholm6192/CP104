@@ -5,8 +5,8 @@ Program takes mortgage amount, interest, length of mortgage(in years), and numbe
 interest is compounded per year, and outputs the total amount owing for the mortgage, with interest included
 -------------------------------------------------------
 Author:  Ryan Chisholm
-ID:      169027577
-Email:   chis7577@mylaurier.ca
+ID:      *********
+Email:   *********
 __updated__ = "2022-09-26"
 -------------------------------------------------------
 """
